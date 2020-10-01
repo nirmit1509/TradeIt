@@ -1,0 +1,20 @@
+/* Styles go here */
+#content {
+    display: flex;
+    flex-direction: row;
+}
+
+.addProduct {
+    margin-right: 60px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 350px;
+}
+
+.buyProduct {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 700px;
+}
